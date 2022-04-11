@@ -17,7 +17,6 @@ export default defineConfig({
                 }
             },
         },
-        target: 'es6',
         minify: false,
     },
     plugins: [
