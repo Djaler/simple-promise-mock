@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/simple-promise-mock?style=for-the-badge)](https://www.npmjs.com/package/simple-promise-mock)
+
 # Simple Promise Mock
 
 > A tiny utility function to create a controlled promise instance with additional methods to resolve or reject it.
